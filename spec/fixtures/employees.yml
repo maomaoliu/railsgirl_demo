@@ -1,0 +1,16 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  name: Zhang San
+  age: 25
+  gender: false
+
+two:
+  name: Li Si
+  age: 30
+  gender: false
+
+three:
+  name: Wang Wu
+  age: 20
+  gender: true
